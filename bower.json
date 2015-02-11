@@ -5,6 +5,9 @@
   "homepage": "https://github.com/agileClown/datepick",
   "license": "MIT",
   "private": true,
+  "dependencies": {
+    "jquery": ">=1.6"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
