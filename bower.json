@@ -1,0 +1,14 @@
+{
+  "name": "datepick",
+  "version": "5.0.0",
+  "homepage": "https://github.com/agileClown/datepick",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
